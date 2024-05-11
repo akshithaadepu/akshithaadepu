@@ -7,6 +7,8 @@
 
 - 🌐 Check out my portfolio website: **[akshithaadepu.github.io](https://akshithaadepu.github.io)**
 
+- 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1MdAuyBsOYgUWoooNWxCW-XVZgmWZ93xO/view?usp=drive_link)**
+
 - 📫 How to reach me **akshitha.adepu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
