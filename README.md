@@ -3,9 +3,9 @@
 
 - 🚀 I’m currently working on **Developing real-world applications with advanced machine learning models and robust software solutions**
 
-- 🌐 Check out my portfolio website: **[akshithaadepu.github.io](https://akshithaadepu.github.io)**
-
 - 💬 Ask me about **Anything related to technology! I'm particularly passionate about machine learning, cloud solutions, and software development.**
+
+- - 🌐 Check out my portfolio website: **[akshithaadepu.github.io](https://akshithaadepu.github.io)**
 
 - 📫 How to reach me **akshitha.adepu@outlook.com**
 
