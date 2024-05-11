@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything related to technology! I'm particularly passionate about machine learning, cloud solutions, and software development.**
 
-- 📫 How to reach me **akshitha.adepu@ufl.edu**
+- 📫 How to reach me **akshitha.adepu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
